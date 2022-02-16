@@ -1,1 +1,1 @@
-# Informazioni sul progetto
+# Progetto di Foundations of Computer Science
