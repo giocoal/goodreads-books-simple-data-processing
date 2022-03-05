@@ -1,1 +1,1 @@
-# Progetto di Foundations of Computer Science
+# Progetto per il corso di Foundations of Computer Science
